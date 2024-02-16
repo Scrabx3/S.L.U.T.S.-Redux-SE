@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SLUTS_ThermalHarness">
+        <DataFolder>SLUTS_ThermalHarness</DataFolder>
+        <SourceFile>ThermalHarness.nif</SourceFile>
+        <OutputPath>meshes\devious\sluts</OutputPath>
+        <OutputFile GenWeights="true">thermalHarness</OutputFile>
+        <Shape target="3BBB" DataFolder="SLUTS_ThermalHarness">3BBB</Shape>
+        <Shape target="3BBB_Anus">3BBB_Anus</Shape>
+        <Shape target="3BBB_Vagina">3BBB_Vagina</Shape>
+        <Shape target="Harness">Harness</Shape>
+        <Shape target="HarnessCollar002:1">HarnessCollar002:1</Shape>
+        <Shape target="HarnessCollar002:2">HarnessCollar002:2</Shape>
+        <Shape target="Metal">Metal</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="3BBBAnkleSize" target="3BBB" local="true">ThermalHarness.osd\3BBBAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="3BBBAppleCheeks" target="3BBB" local="true">ThermalHarness.osd\3BBBAppleCheeks</Data>
+            <Data name="HarnessAppleCheeks" target="Harness" local="true">ThermalHarness.osd\HarnessAppleCheeks</Data>
+            <Data name="MetalAppleCheeks" target="Metal" local="true">ThermalHarness.osd\MetalAppleCheeks</Data>
+            <Data name="3BBB_AnusAppleCheeks" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusAppleCheeks</Data>
+            <Data name="3BBB_VaginaAppleCheeks" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaAppleCheeks</Data>
+        </Slider>
+        <Slider name="AreolaSize" invert="false" small="0" big="0" uv="true">
+            <Data name="3BBBAreolaSize" target="3BBB" local="true">ThermalHarness.osd\3BBBAreolaSize</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="3BBBArms" target="3BBB" local="true">ThermalHarness.osd\3BBBArms</Data>
+            <Data name="HarnessArms" target="Harness" local="true">ThermalHarness.osd\HarnessArms</Data>
+            <Data name="MetalArms" target="Metal" local="true">ThermalHarness.osd\MetalArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="3BBBBack" target="3BBB" local="true">ThermalHarness.osd\3BBBBack</Data>
+            <Data name="HarnessBack" target="Harness" local="true">ThermalHarness.osd\HarnessBack</Data>
+            <Data name="MetalBack" target="Metal" local="true">ThermalHarness.osd\MetalBack</Data>
+            <Data name="HarnessCollar002:1Back" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1Back</Data>
+            <Data name="3BBB_AnusBack" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="3BBBBackArch" target="3BBB" local="true">ThermalHarness.osd\3BBBBackArch</Data>
+            <Data name="HarnessBackArch" target="Harness" local="true">ThermalHarness.osd\HarnessBackArch</Data>
+            <Data name="MetalBackArch" target="Metal" local="true">ThermalHarness.osd\MetalBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="3BBBBelly" target="3BBB" local="true">ThermalHarness.osd\3BBBBelly</Data>
+            <Data name="HarnessBelly" target="Harness" local="true">ThermalHarness.osd\HarnessBelly</Data>
+            <Data name="MetalBelly" target="Metal" local="true">ThermalHarness.osd\MetalBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="3BBBBigBelly" target="3BBB" local="true">ThermalHarness.osd\3BBBBigBelly</Data>
+            <Data name="HarnessBigBelly" target="Harness" local="true">ThermalHarness.osd\HarnessBigBelly</Data>
+            <Data name="MetalBigBelly" target="Metal" local="true">ThermalHarness.osd\MetalBigBelly</Data>
+            <Data name="3BBB_VaginaBigBelly" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="3BBBBigButt" target="3BBB" local="true">ThermalHarness.osd\3BBBBigButt</Data>
+            <Data name="HarnessBigButt" target="Harness" local="true">ThermalHarness.osd\HarnessBigButt</Data>
+            <Data name="MetalBigButt" target="Metal" local="true">ThermalHarness.osd\MetalBigButt</Data>
+            <Data name="3BBB_AnusBigButt" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusBigButt</Data>
+            <Data name="3BBB_VaginaBigButt" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="3BBBBigTorso" target="3BBB" local="true">ThermalHarness.osd\3BBBBigTorso</Data>
+            <Data name="HarnessBigTorso" target="Harness" local="true">ThermalHarness.osd\HarnessBigTorso</Data>
+            <Data name="MetalBigTorso" target="Metal" local="true">ThermalHarness.osd\MetalBigTorso</Data>
+            <Data name="HarnessCollar002:2BigTorso" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2BigTorso</Data>
+            <Data name="HarnessCollar002:1BigTorso" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="3BBBBreastCenter" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastCenter</Data>
+            <Data name="HarnessBreastCenter" target="Harness" local="true">ThermalHarness.osd\HarnessBreastCenter</Data>
+            <Data name="MetalBreastCenter" target="Metal" local="true">ThermalHarness.osd\MetalBreastCenter</Data>
+            <Data name="HarnessCollar002:1BreastCenter" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="3BBBBreastCenterBig" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastCenterBig</Data>
+            <Data name="HarnessBreastCenterBig" target="Harness" local="true">ThermalHarness.osd\HarnessBreastCenterBig</Data>
+            <Data name="MetalBreastCenterBig" target="Metal" local="true">ThermalHarness.osd\MetalBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="3BBBBreastCleavage" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastCleavage</Data>
+            <Data name="HarnessBreastCleavage" target="Harness" local="true">ThermalHarness.osd\HarnessBreastCleavage</Data>
+            <Data name="MetalBreastCleavage" target="Metal" local="true">ThermalHarness.osd\MetalBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="3BBBBreastFlatness2" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastFlatness2</Data>
+            <Data name="HarnessBreastFlatness2" target="Harness" local="true">ThermalHarness.osd\HarnessBreastFlatness2</Data>
+            <Data name="MetalBreastFlatness2" target="Metal" local="true">ThermalHarness.osd\MetalBreastFlatness2</Data>
+            <Data name="HarnessCollar002:1BreastFlatness2" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="3BBBBreastFlatness" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastFlatness</Data>
+            <Data name="HarnessBreastFlatness" target="Harness" local="true">ThermalHarness.osd\HarnessBreastFlatness</Data>
+            <Data name="MetalBreastFlatness" target="Metal" local="true">ThermalHarness.osd\MetalBreastFlatness</Data>
+            <Data name="HarnessCollar002:2BreastFlatness" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2BreastFlatness</Data>
+            <Data name="HarnessCollar002:1BreastFlatness" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="3BBBBreastGravity2" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastGravity2</Data>
+            <Data name="HarnessBreastGravity2" target="Harness" local="true">ThermalHarness.osd\HarnessBreastGravity2</Data>
+            <Data name="MetalBreastGravity2" target="Metal" local="true">ThermalHarness.osd\MetalBreastGravity2</Data>
+            <Data name="HarnessCollar002:1BreastGravity2" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="3BBBBreastHeight" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastHeight</Data>
+            <Data name="HarnessBreastHeight" target="Harness" local="true">ThermalHarness.osd\HarnessBreastHeight</Data>
+            <Data name="MetalBreastHeight" target="Metal" local="true">ThermalHarness.osd\MetalBreastHeight</Data>
+            <Data name="HarnessCollar002:2BreastHeight" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2BreastHeight</Data>
+            <Data name="HarnessCollar002:1BreastHeight" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="3BBBBreastPerkiness" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastPerkiness</Data>
+            <Data name="HarnessBreastPerkiness" target="Harness" local="true">ThermalHarness.osd\HarnessBreastPerkiness</Data>
+            <Data name="MetalBreastPerkiness" target="Metal" local="true">ThermalHarness.osd\MetalBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="3BBBBreasts" target="3BBB" local="true">ThermalHarness.osd\3BBBBreasts</Data>
+            <Data name="HarnessBreasts" target="Harness" local="true">ThermalHarness.osd\HarnessBreasts</Data>
+            <Data name="MetalBreasts" target="Metal" local="true">ThermalHarness.osd\MetalBreasts</Data>
+            <Data name="HarnessCollar002:1Breasts" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1Breasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="3BBBBreastsFantasy" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastsFantasy</Data>
+            <Data name="HarnessBreastsFantasy" target="Harness" local="true">ThermalHarness.osd\HarnessBreastsFantasy</Data>
+            <Data name="MetalBreastsFantasy" target="Metal" local="true">ThermalHarness.osd\MetalBreastsFantasy</Data>
+            <Data name="HarnessCollar002:1BreastsFantasy" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="3BBBBreastsGone" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastsGone</Data>
+            <Data name="HarnessBreastsGone" target="Harness" local="true">ThermalHarness.osd\HarnessBreastsGone</Data>
+            <Data name="MetalBreastsGone" target="Metal" local="true">ThermalHarness.osd\MetalBreastsGone</Data>
+            <Data name="HarnessCollar002:2BreastsGone" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2BreastsGone</Data>
+            <Data name="HarnessCollar002:1BreastsGone" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="3BBBBreastsNewSH" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastsNewSH</Data>
+            <Data name="HarnessBreastsNewSH" target="Harness" local="true">ThermalHarness.osd\HarnessBreastsNewSH</Data>
+            <Data name="MetalBreastsNewSH" target="Metal" local="true">ThermalHarness.osd\MetalBreastsNewSH</Data>
+            <Data name="HarnessCollar002:1BreastsNewSH" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
+            <Data name="3BBBBreastsNewSHSymmetry" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastsNewSHSymmetry</Data>
+            <Data name="HarnessBreastsNewSHSymmetry" target="Harness" local="true">ThermalHarness.osd\HarnessBreastsNewSHSymmetry</Data>
+            <Data name="MetalBreastsNewSHSymmetry" target="Metal" local="true">ThermalHarness.osd\MetalBreastsNewSHSymmetry</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="3BBBBreastsSmall" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastsSmall</Data>
+            <Data name="HarnessBreastsSmall" target="Harness" local="true">ThermalHarness.osd\HarnessBreastsSmall</Data>
+            <Data name="MetalBreastsSmall" target="Metal" local="true">ThermalHarness.osd\MetalBreastsSmall</Data>
+            <Data name="HarnessCollar002:2BreastsSmall" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2BreastsSmall</Data>
+            <Data name="HarnessCollar002:1BreastsSmall" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="3BBBBreastsSmall2" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastsSmall2</Data>
+            <Data name="HarnessBreastsSmall2" target="Harness" local="true">ThermalHarness.osd\HarnessBreastsSmall2</Data>
+            <Data name="MetalBreastsSmall2" target="Metal" local="true">ThermalHarness.osd\MetalBreastsSmall2</Data>
+            <Data name="HarnessCollar002:2BreastsSmall2" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2BreastsSmall2</Data>
+            <Data name="HarnessCollar002:1BreastsSmall2" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="3BBBBreastsTogether" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastsTogether</Data>
+            <Data name="HarnessBreastsTogether" target="Harness" local="true">ThermalHarness.osd\HarnessBreastsTogether</Data>
+            <Data name="MetalBreastsTogether" target="Metal" local="true">ThermalHarness.osd\MetalBreastsTogether</Data>
+            <Data name="HarnessCollar002:1BreastsTogether" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="3BBBBreastTopSlope" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastTopSlope</Data>
+            <Data name="HarnessBreastTopSlope" target="Harness" local="true">ThermalHarness.osd\HarnessBreastTopSlope</Data>
+            <Data name="MetalBreastTopSlope" target="Metal" local="true">ThermalHarness.osd\MetalBreastTopSlope</Data>
+            <Data name="HarnessCollar002:1BreastTopSlope" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="3BBBBreastWidth" target="3BBB" local="true">ThermalHarness.osd\3BBBBreastWidth</Data>
+            <Data name="HarnessBreastWidth" target="Harness" local="true">ThermalHarness.osd\HarnessBreastWidth</Data>
+            <Data name="MetalBreastWidth" target="Metal" local="true">ThermalHarness.osd\MetalBreastWidth</Data>
+            <Data name="HarnessCollar002:2BreastWidth" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2BreastWidth</Data>
+            <Data name="HarnessCollar002:1BreastWidth" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="3BBBButt" target="3BBB" local="true">ThermalHarness.osd\3BBBButt</Data>
+            <Data name="HarnessButt" target="Harness" local="true">ThermalHarness.osd\HarnessButt</Data>
+            <Data name="MetalButt" target="Metal" local="true">ThermalHarness.osd\MetalButt</Data>
+            <Data name="3BBB_AnusButt" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusButt</Data>
+            <Data name="3BBB_VaginaButt" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="3BBBButtClassic" target="3BBB" local="true">ThermalHarness.osd\3BBBButtClassic</Data>
+            <Data name="HarnessButtClassic" target="Harness" local="true">ThermalHarness.osd\HarnessButtClassic</Data>
+            <Data name="MetalButtClassic" target="Metal" local="true">ThermalHarness.osd\MetalButtClassic</Data>
+            <Data name="3BBB_AnusButtClassic" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusButtClassic</Data>
+            <Data name="3BBB_VaginaButtClassic" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="3BBBButtCrack" target="3BBB" local="true">ThermalHarness.osd\3BBBButtCrack</Data>
+            <Data name="HarnessButtCrack" target="Harness" local="true">ThermalHarness.osd\HarnessButtCrack</Data>
+            <Data name="MetalButtCrack" target="Metal" local="true">ThermalHarness.osd\MetalButtCrack</Data>
+            <Data name="3BBB_AnusButtCrack" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusButtCrack</Data>
+            <Data name="3BBB_VaginaButtCrack" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="3BBBButtShape2" target="3BBB" local="true">ThermalHarness.osd\3BBBButtShape2</Data>
+            <Data name="HarnessButtShape2" target="Harness" local="true">ThermalHarness.osd\HarnessButtShape2</Data>
+            <Data name="MetalButtShape2" target="Metal" local="true">ThermalHarness.osd\MetalButtShape2</Data>
+            <Data name="3BBB_AnusButtShape2" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusButtShape2</Data>
+            <Data name="3BBB_VaginaButtShape2" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="3BBBButtSmall" target="3BBB" local="true">ThermalHarness.osd\3BBBButtSmall</Data>
+            <Data name="HarnessButtSmall" target="Harness" local="true">ThermalHarness.osd\HarnessButtSmall</Data>
+            <Data name="MetalButtSmall" target="Metal" local="true">ThermalHarness.osd\MetalButtSmall</Data>
+            <Data name="3BBB_AnusButtSmall" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusButtSmall</Data>
+            <Data name="3BBB_VaginaButtSmall" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="3BBBCalfSize" target="3BBB" local="true">ThermalHarness.osd\3BBBCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="3BBBCalfSmooth" target="3BBB" local="true">ThermalHarness.osd\3BBBCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="3BBBChestDepth" target="3BBB" local="true">ThermalHarness.osd\3BBBChestDepth</Data>
+            <Data name="HarnessChestDepth" target="Harness" local="true">ThermalHarness.osd\HarnessChestDepth</Data>
+            <Data name="MetalChestDepth" target="Metal" local="true">ThermalHarness.osd\MetalChestDepth</Data>
+            <Data name="HarnessCollar002:2ChestDepth" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2ChestDepth</Data>
+            <Data name="HarnessCollar002:1ChestDepth" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="3BBBChestWidth" target="3BBB" local="true">ThermalHarness.osd\3BBBChestWidth</Data>
+            <Data name="HarnessChestWidth" target="Harness" local="true">ThermalHarness.osd\HarnessChestWidth</Data>
+            <Data name="MetalChestWidth" target="Metal" local="true">ThermalHarness.osd\MetalChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="3BBBChubbyArms" target="3BBB" local="true">ThermalHarness.osd\3BBBChubbyArms</Data>
+            <Data name="HarnessChubbyArms" target="Harness" local="true">ThermalHarness.osd\HarnessChubbyArms</Data>
+            <Data name="MetalChubbyArms" target="Metal" local="true">ThermalHarness.osd\MetalChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="3BBBChubbyButt" target="3BBB" local="true">ThermalHarness.osd\3BBBChubbyButt</Data>
+            <Data name="HarnessChubbyButt" target="Harness" local="true">ThermalHarness.osd\HarnessChubbyButt</Data>
+            <Data name="MetalChubbyButt" target="Metal" local="true">ThermalHarness.osd\MetalChubbyButt</Data>
+            <Data name="3BBB_AnusChubbyButt" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusChubbyButt</Data>
+            <Data name="3BBB_VaginaChubbyButt" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="3BBBChubbyLegs" target="3BBB" local="true">ThermalHarness.osd\3BBBChubbyLegs</Data>
+            <Data name="HarnessChubbyLegs" target="Harness" local="true">ThermalHarness.osd\HarnessChubbyLegs</Data>
+            <Data name="MetalChubbyLegs" target="Metal" local="true">ThermalHarness.osd\MetalChubbyLegs</Data>
+            <Data name="3BBB_AnusChubbyLegs" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusChubbyLegs</Data>
+            <Data name="3BBB_VaginaChubbyLegs" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="3BBBChubbyWaist" target="3BBB" local="true">ThermalHarness.osd\3BBBChubbyWaist</Data>
+            <Data name="HarnessChubbyWaist" target="Harness" local="true">ThermalHarness.osd\HarnessChubbyWaist</Data>
+            <Data name="MetalChubbyWaist" target="Metal" local="true">ThermalHarness.osd\MetalChubbyWaist</Data>
+            <Data name="3BBB_AnusChubbyWaist" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusChubbyWaist</Data>
+            <Data name="3BBB_VaginaChubbyWaist" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="3BBBCrotchBack" target="3BBB" local="true">ThermalHarness.osd\3BBBCrotchBack</Data>
+            <Data name="HarnessCrotchBack" target="Harness" local="true">ThermalHarness.osd\HarnessCrotchBack</Data>
+            <Data name="MetalCrotchBack" target="Metal" local="true">ThermalHarness.osd\MetalCrotchBack</Data>
+            <Data name="3BBB_AnusCrotchBack" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusCrotchBack</Data>
+            <Data name="3BBB_VaginaCrotchBack" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="3BBBDoubleMelon" target="3BBB" local="true">ThermalHarness.osd\3BBBDoubleMelon</Data>
+            <Data name="HarnessDoubleMelon" target="Harness" local="true">ThermalHarness.osd\HarnessDoubleMelon</Data>
+            <Data name="MetalDoubleMelon" target="Metal" local="true">ThermalHarness.osd\MetalDoubleMelon</Data>
+            <Data name="HarnessCollar002:1DoubleMelon" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1DoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="3BBBForearmSize" target="3BBB" local="true">ThermalHarness.osd\3BBBForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="3BBBGroin" target="3BBB" local="true">ThermalHarness.osd\3BBBGroin</Data>
+            <Data name="HarnessGroin" target="Harness" local="true">ThermalHarness.osd\HarnessGroin</Data>
+            <Data name="MetalGroin" target="Metal" local="true">ThermalHarness.osd\MetalGroin</Data>
+            <Data name="3BBB_AnusGroin" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusGroin</Data>
+            <Data name="3BBB_VaginaGroin" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="3BBBHipBone" target="3BBB" local="true">ThermalHarness.osd\3BBBHipBone</Data>
+            <Data name="HarnessHipBone" target="Harness" local="true">ThermalHarness.osd\HarnessHipBone</Data>
+            <Data name="MetalHipBone" target="Metal" local="true">ThermalHarness.osd\MetalHipBone</Data>
+            <Data name="3BBB_VaginaHipBone" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="3BBBHipForward" target="3BBB" local="true">ThermalHarness.osd\3BBBHipForward</Data>
+            <Data name="HarnessHipForward" target="Harness" local="true">ThermalHarness.osd\HarnessHipForward</Data>
+            <Data name="MetalHipForward" target="Metal" local="true">ThermalHarness.osd\MetalHipForward</Data>
+            <Data name="3BBB_AnusHipForward" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusHipForward</Data>
+            <Data name="3BBB_VaginaHipForward" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="3BBBHips" target="3BBB" local="true">ThermalHarness.osd\3BBBHips</Data>
+            <Data name="HarnessHips" target="Harness" local="true">ThermalHarness.osd\HarnessHips</Data>
+            <Data name="MetalHips" target="Metal" local="true">ThermalHarness.osd\MetalHips</Data>
+            <Data name="3BBB_AnusHips" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusHips</Data>
+            <Data name="3BBB_VaginaHips" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="3BBBHipUpperWidth" target="3BBB" local="true">ThermalHarness.osd\3BBBHipUpperWidth</Data>
+            <Data name="HarnessHipUpperWidth" target="Harness" local="true">ThermalHarness.osd\HarnessHipUpperWidth</Data>
+            <Data name="MetalHipUpperWidth" target="Metal" local="true">ThermalHarness.osd\MetalHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="3BBBKneeHeight" target="3BBB" local="true">ThermalHarness.osd\3BBBKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="3BBBKneeShape" target="3BBB" local="true">ThermalHarness.osd\3BBBKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="3BBBLegShapeClassic" target="3BBB" local="true">ThermalHarness.osd\3BBBLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="3BBBLegsThin" target="3BBB" local="true">ThermalHarness.osd\3BBBLegsThin</Data>
+            <Data name="MetalLegsThin" target="Metal" local="true">ThermalHarness.osd\MetalLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="3BBBMuscleAbs" target="3BBB" local="true">ThermalHarness.osd\3BBBMuscleAbs</Data>
+            <Data name="HarnessMuscleAbs" target="Harness" local="true">ThermalHarness.osd\HarnessMuscleAbs</Data>
+            <Data name="MetalMuscleAbs" target="Metal" local="true">ThermalHarness.osd\MetalMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="3BBBMuscleArms" target="3BBB" local="true">ThermalHarness.osd\3BBBMuscleArms</Data>
+            <Data name="HarnessMuscleArms" target="Harness" local="true">ThermalHarness.osd\HarnessMuscleArms</Data>
+            <Data name="MetalMuscleArms" target="Metal" local="true">ThermalHarness.osd\MetalMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="3BBBMuscleButt" target="3BBB" local="true">ThermalHarness.osd\3BBBMuscleButt</Data>
+            <Data name="HarnessMuscleButt" target="Harness" local="true">ThermalHarness.osd\HarnessMuscleButt</Data>
+            <Data name="MetalMuscleButt" target="Metal" local="true">ThermalHarness.osd\MetalMuscleButt</Data>
+            <Data name="3BBB_AnusMuscleButt" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="3BBBMuscleLegs" target="3BBB" local="true">ThermalHarness.osd\3BBBMuscleLegs</Data>
+            <Data name="HarnessMuscleLegs" target="Harness" local="true">ThermalHarness.osd\HarnessMuscleLegs</Data>
+            <Data name="MetalMuscleLegs" target="Metal" local="true">ThermalHarness.osd\MetalMuscleLegs</Data>
+            <Data name="3BBB_AnusMuscleLegs" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusMuscleLegs</Data>
+            <Data name="3BBB_VaginaMuscleLegs" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="3BBBMusclePecs" target="3BBB" local="true">ThermalHarness.osd\3BBBMusclePecs</Data>
+            <Data name="HarnessMusclePecs" target="Harness" local="true">ThermalHarness.osd\HarnessMusclePecs</Data>
+            <Data name="MetalMusclePecs" target="Metal" local="true">ThermalHarness.osd\MetalMusclePecs</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="3BBBNeckSeam" target="3BBB" local="true">ThermalHarness.osd\3BBBNeckSeam</Data>
+            <Data name="HarnessCollar002:2NeckSeam" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2NeckSeam</Data>
+            <Data name="HarnessCollar002:1NeckSeam" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1NeckSeam</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="3BBBNipBGone" target="3BBB" local="true">ThermalHarness.osd\3BBBNipBGone</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="3BBBNippleDistance" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleDistance</Data>
+            <Data name="HarnessNippleDistance" target="Harness" local="true">ThermalHarness.osd\HarnessNippleDistance</Data>
+            <Data name="MetalNippleDistance" target="Metal" local="true">ThermalHarness.osd\MetalNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="3BBBNippleDown" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleDown</Data>
+            <Data name="HarnessNippleDown" target="Harness" local="true">ThermalHarness.osd\HarnessNippleDown</Data>
+            <Data name="MetalNippleDown" target="Metal" local="true">ThermalHarness.osd\MetalNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="3BBBNippleLength" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleLength</Data>
+            <Data name="HarnessNippleLength" target="Harness" local="true">ThermalHarness.osd\HarnessNippleLength</Data>
+            <Data name="MetalNippleLength" target="Metal" local="true">ThermalHarness.osd\MetalNippleLength</Data>
+            <Data name="HarnessCollar002:2NippleLength" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2NippleLength</Data>
+            <Data name="HarnessCollar002:1NippleLength" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1NippleLength</Data>
+        </Slider>
+        <Slider name="NippleManga" invert="false" small="0" big="0">
+            <Data name="3BBBNippleManga" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleManga</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="3BBBNipplePerkiness" target="3BBB" local="true">ThermalHarness.osd\3BBBNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="3BBBNipplePerkManga" target="3BBB" local="true">ThermalHarness.osd\3BBBNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" small="0" big="0">
+            <Data name="3BBBNippleSize" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="3BBBNippleTip" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleTip</Data>
+        </Slider>
+        <Slider name="NippleTipManga" invert="false" small="0" big="0">
+            <Data name="3BBBNippleTipManga" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleTipManga</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="3BBBNippleUp" target="3BBB" local="true">ThermalHarness.osd\3BBBNippleUp</Data>
+            <Data name="HarnessNippleUp" target="Harness" local="true">ThermalHarness.osd\HarnessNippleUp</Data>
+            <Data name="MetalNippleUp" target="Metal" local="true">ThermalHarness.osd\MetalNippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="3BBBPregnancyBelly" target="3BBB" local="true">ThermalHarness.osd\3BBBPregnancyBelly</Data>
+            <Data name="HarnessPregnancyBelly" target="Harness" local="true">ThermalHarness.osd\HarnessPregnancyBelly</Data>
+            <Data name="MetalPregnancyBelly" target="Metal" local="true">ThermalHarness.osd\MetalPregnancyBelly</Data>
+            <Data name="3BBB_VaginaPregnancyBelly" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="3BBBPushUp" target="3BBB" local="true">ThermalHarness.osd\3BBBPushUp</Data>
+            <Data name="HarnessPushUp" target="Harness" local="true">ThermalHarness.osd\HarnessPushUp</Data>
+            <Data name="MetalPushUp" target="Metal" local="true">ThermalHarness.osd\MetalPushUp</Data>
+            <Data name="HarnessCollar002:1PushUp" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1PushUp</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="3BBBRibsProminance" target="3BBB" local="true">ThermalHarness.osd\3BBBRibsProminance</Data>
+            <Data name="HarnessRibsProminance" target="Harness" local="true">ThermalHarness.osd\HarnessRibsProminance</Data>
+            <Data name="MetalRibsProminance" target="Metal" local="true">ThermalHarness.osd\MetalRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="3BBBRoundAss" target="3BBB" local="true">ThermalHarness.osd\3BBBRoundAss</Data>
+            <Data name="HarnessRoundAss" target="Harness" local="true">ThermalHarness.osd\HarnessRoundAss</Data>
+            <Data name="MetalRoundAss" target="Metal" local="true">ThermalHarness.osd\MetalRoundAss</Data>
+            <Data name="3BBB_AnusRoundAss" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusRoundAss</Data>
+            <Data name="3BBB_VaginaRoundAss" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="3BBBShoulderSmooth" target="3BBB" local="true">ThermalHarness.osd\3BBBShoulderSmooth</Data>
+            <Data name="HarnessShoulderSmooth" target="Harness" local="true">ThermalHarness.osd\HarnessShoulderSmooth</Data>
+            <Data name="MetalShoulderSmooth" target="Metal" local="true">ThermalHarness.osd\MetalShoulderSmooth</Data>
+            <Data name="HarnessCollar002:2ShoulderSmooth" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2ShoulderSmooth</Data>
+            <Data name="HarnessCollar002:1ShoulderSmooth" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="3BBBShoulderTweak" target="3BBB" local="true">ThermalHarness.osd\3BBBShoulderTweak</Data>
+            <Data name="HarnessCollar002:2ShoulderTweak" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2ShoulderTweak</Data>
+            <Data name="HarnessCollar002:1ShoulderTweak" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="3BBBShoulderWidth" target="3BBB" local="true">ThermalHarness.osd\3BBBShoulderWidth</Data>
+            <Data name="HarnessShoulderWidth" target="Harness" local="true">ThermalHarness.osd\HarnessShoulderWidth</Data>
+            <Data name="MetalShoulderWidth" target="Metal" local="true">ThermalHarness.osd\MetalShoulderWidth</Data>
+            <Data name="HarnessCollar002:2ShoulderWidth" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2ShoulderWidth</Data>
+            <Data name="HarnessCollar002:1ShoulderWidth" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="3BBBSlimThighs" target="3BBB" local="true">ThermalHarness.osd\3BBBSlimThighs</Data>
+            <Data name="HarnessSlimThighs" target="Harness" local="true">ThermalHarness.osd\HarnessSlimThighs</Data>
+            <Data name="MetalSlimThighs" target="Metal" local="true">ThermalHarness.osd\MetalSlimThighs</Data>
+            <Data name="3BBB_AnusSlimThighs" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusSlimThighs</Data>
+            <Data name="3BBB_VaginaSlimThighs" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="3BBBSternumDepth" target="3BBB" local="true">ThermalHarness.osd\3BBBSternumDepth</Data>
+            <Data name="HarnessSternumDepth" target="Harness" local="true">ThermalHarness.osd\HarnessSternumDepth</Data>
+            <Data name="MetalSternumDepth" target="Metal" local="true">ThermalHarness.osd\MetalSternumDepth</Data>
+            <Data name="HarnessCollar002:1SternumDepth" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1SternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="3BBBSternumHeight" target="3BBB" local="true">ThermalHarness.osd\3BBBSternumHeight</Data>
+            <Data name="HarnessSternumHeight" target="Harness" local="true">ThermalHarness.osd\HarnessSternumHeight</Data>
+            <Data name="MetalSternumHeight" target="Metal" local="true">ThermalHarness.osd\MetalSternumHeight</Data>
+            <Data name="HarnessCollar002:1SternumHeight" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1SternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="3BBBThighs" target="3BBB" local="true">ThermalHarness.osd\3BBBThighs</Data>
+            <Data name="HarnessThighs" target="Harness" local="true">ThermalHarness.osd\HarnessThighs</Data>
+            <Data name="MetalThighs" target="Metal" local="true">ThermalHarness.osd\MetalThighs</Data>
+            <Data name="3BBB_AnusThighs" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusThighs</Data>
+            <Data name="3BBB_VaginaThighs" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="3BBBTummyTuck" target="3BBB" local="true">ThermalHarness.osd\3BBBTummyTuck</Data>
+            <Data name="HarnessTummyTuck" target="Harness" local="true">ThermalHarness.osd\HarnessTummyTuck</Data>
+            <Data name="MetalTummyTuck" target="Metal" local="true">ThermalHarness.osd\MetalTummyTuck</Data>
+            <Data name="3BBB_VaginaTummyTuck" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="3BBBWaist" target="3BBB" local="true">ThermalHarness.osd\3BBBWaist</Data>
+            <Data name="HarnessWaist" target="Harness" local="true">ThermalHarness.osd\HarnessWaist</Data>
+            <Data name="MetalWaist" target="Metal" local="true">ThermalHarness.osd\MetalWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="3BBBWaistHeight" target="3BBB" local="true">ThermalHarness.osd\3BBBWaistHeight</Data>
+            <Data name="HarnessWaistHeight" target="Harness" local="true">ThermalHarness.osd\HarnessWaistHeight</Data>
+            <Data name="MetalWaistHeight" target="Metal" local="true">ThermalHarness.osd\MetalWaistHeight</Data>
+            <Data name="3BBB_AnusWaistHeight" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusWaistHeight</Data>
+            <Data name="3BBB_VaginaWaistHeight" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="3BBBWideWaistLine" target="3BBB" local="true">ThermalHarness.osd\3BBBWideWaistLine</Data>
+            <Data name="HarnessWideWaistLine" target="Harness" local="true">ThermalHarness.osd\HarnessWideWaistLine</Data>
+            <Data name="MetalWideWaistLine" target="Metal" local="true">ThermalHarness.osd\MetalWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="3BBBWristSize" target="3BBB" local="true">ThermalHarness.osd\3BBBWristSize</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="3BBB7B Lower" target="3BBB" local="true">ThermalHarness.osd\3BBB7B Lower</Data>
+            <Data name="Harness7B Lower" target="Harness" local="true">ThermalHarness.osd\Harness7B Lower</Data>
+            <Data name="Metal7B Lower" target="Metal" local="true">ThermalHarness.osd\Metal7B Lower</Data>
+            <Data name="3BBB_Anus7B Lower" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_Anus7B Lower</Data>
+            <Data name="3BBB_Vagina7B Lower" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_Vagina7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="3BBB7B Upper" target="3BBB" local="true">ThermalHarness.osd\3BBB7B Upper</Data>
+            <Data name="Harness7B Upper" target="Harness" local="true">ThermalHarness.osd\Harness7B Upper</Data>
+            <Data name="Metal7B Upper" target="Metal" local="true">ThermalHarness.osd\Metal7B Upper</Data>
+            <Data name="HarnessCollar002:27B Upper" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:27B Upper</Data>
+            <Data name="HarnessCollar002:17B Upper" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:17B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="3BBBVanillaSSEHi" target="3BBB" local="true">ThermalHarness.osd\3BBBVanillaSSEHi</Data>
+            <Data name="HarnessVanillaSSEHi" target="Harness" local="true">ThermalHarness.osd\HarnessVanillaSSEHi</Data>
+            <Data name="MetalVanillaSSEHi" target="Metal" local="true">ThermalHarness.osd\MetalVanillaSSEHi</Data>
+            <Data name="HarnessCollar002:2VanillaSSEHi" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2VanillaSSEHi</Data>
+            <Data name="HarnessCollar002:1VanillaSSEHi" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1VanillaSSEHi</Data>
+            <Data name="3BBB_AnusVanillaSSEHi" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusVanillaSSEHi</Data>
+            <Data name="3BBB_VaginaVanillaSSEHi" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="3BBBVanillaSSELo" target="3BBB" local="true">ThermalHarness.osd\3BBBVanillaSSELo</Data>
+            <Data name="HarnessVanillaSSELo" target="Harness" local="true">ThermalHarness.osd\HarnessVanillaSSELo</Data>
+            <Data name="MetalVanillaSSELo" target="Metal" local="true">ThermalHarness.osd\MetalVanillaSSELo</Data>
+            <Data name="HarnessCollar002:2VanillaSSELo" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2VanillaSSELo</Data>
+            <Data name="HarnessCollar002:1VanillaSSELo" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1VanillaSSELo</Data>
+            <Data name="3BBB_AnusVanillaSSELo" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusVanillaSSELo</Data>
+            <Data name="3BBB_VaginaVanillaSSELo" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="3BBBOldBaseShape" target="3BBB" local="true">ThermalHarness.osd\3BBBOldBaseShape</Data>
+            <Data name="HarnessOldBaseShape" target="Harness" local="true">ThermalHarness.osd\HarnessOldBaseShape</Data>
+            <Data name="MetalOldBaseShape" target="Metal" local="true">ThermalHarness.osd\MetalOldBaseShape</Data>
+            <Data name="HarnessCollar002:2OldBaseShape" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2OldBaseShape</Data>
+            <Data name="HarnessCollar002:1OldBaseShape" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1OldBaseShape</Data>
+            <Data name="3BBB_AnusOldBaseShape" target="3BBB_Anus" local="true">ThermalHarness.osd\3BBB_AnusOldBaseShape</Data>
+            <Data name="3BBB_VaginaOldBaseShape" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaOldBaseShape</Data>
+        </Slider>
+        <Slider name="Innieoutie" invert="false" small="0" big="0">
+            <Data name="3BBBInnieoutie" target="3BBB" local="true">ThermalHarness.osd\3BBBInnieoutie</Data>
+            <Data name="3BBB_VaginaInnieoutie" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaInnieoutie</Data>
+        </Slider>
+        <Slider name="Labiapuffyness" invert="false" small="0" big="0">
+            <Data name="3BBBLabiapuffyness" target="3BBB" local="true">ThermalHarness.osd\3BBBLabiapuffyness</Data>
+        </Slider>
+        <Slider name="Labiaprotrude" invert="false" small="0" big="0">
+            <Data name="3BBB_VaginaLabiaprotrude" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaLabiaprotrude</Data>
+        </Slider>
+        <Slider name="Labiaprotrude2" invert="false" small="0" big="0">
+            <Data name="3BBB_VaginaLabiaprotrude2" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaLabiaprotrude2</Data>
+        </Slider>
+        <Slider name="Vaginasize" invert="false" small="0" big="0">
+            <Data name="3BBB_VaginaVaginasize" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaVaginasize</Data>
+        </Slider>
+        <Slider name="Clit" invert="false" small="0" big="0">
+            <Data name="3BBB_VaginaClit" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaClit</Data>
+        </Slider>
+        <Slider name="CBPC" invert="false" small="100" big="100">
+            <Data name="3BBBCBPC" target="3BBB" local="true">ThermalHarness.osd\3BBBCBPC</Data>
+            <Data name="HarnessCBPC" target="Harness" local="true">ThermalHarness.osd\HarnessCBPC</Data>
+            <Data name="MetalCBPC" target="Metal" local="true">ThermalHarness.osd\MetalCBPC</Data>
+            <Data name="HarnessCollar002:2CBPC" target="HarnessCollar002:2" local="true">ThermalHarness.osd\HarnessCollar002:2CBPC</Data>
+            <Data name="HarnessCollar002:1CBPC" target="HarnessCollar002:1" local="true">ThermalHarness.osd\HarnessCollar002:1CBPC</Data>
+            <Data name="3BBB_VaginaCBPC" target="3BBB_Vagina" local="true">ThermalHarness.osd\3BBB_VaginaCBPC</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

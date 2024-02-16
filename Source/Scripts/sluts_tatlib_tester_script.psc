@@ -1,0 +1,1 @@
+Scriptname sluts_tatlib_tester_script extends ObjectReference  
